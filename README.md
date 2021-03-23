@@ -34,4 +34,5 @@ Samples using Azure storages, Azure cognitive services, Azure Functions with blo
 
 ## Resources
 * https://docs.microsoft.com/en-us/azure/azure-functions/functions-bindings-cosmosdb-v2-output?tabs=csharp
-* https://docs.microsoft.com/en-us/aspnet/core/test/integration-tests?view=aspnetcore-5.0
+* https://github.com/lbugnion/sample-azure-cognitive1/blob/master/Doc/text-recognition.md
+* https://docs.microsoft.com/en-us/samples/azure-samples/cognitive-services-dotnet-sdk-samples/cognitive-services-dotnet-sdk-samples/
