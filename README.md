@@ -31,3 +31,7 @@ Samples using Azure storages, Azure cognitive services, Azure Functions with blo
 4.  Create a Container `image-text` at Azure Storage
 5.  Hit `F5`
 6.  Upload a File at Azure Storage
+
+## Resources
+* https://docs.microsoft.com/en-us/azure/azure-functions/functions-bindings-cosmosdb-v2-output?tabs=csharp
+* https://docs.microsoft.com/en-us/aspnet/core/test/integration-tests?view=aspnetcore-5.0
